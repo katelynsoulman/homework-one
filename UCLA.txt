@@ -2,3 +2,9 @@ A list of Classes I've taken at UCLA
 
 * MATH 170E
 * STATS 20
+
+Class I am currently taking at UCLA
+
+* MATH 170S
+* STATS 20
+* COMM 188C
